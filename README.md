@@ -101,6 +101,6 @@ MIT — free to use, share, and modify.
 
 ## ✨ Credits
 
-- Game & Code: [Your Name]
+- Game & Code: Tamunodein Anyanwu
 - Assets: Custom-made in Blender
 - Engine: Unity 2022 LTS
